@@ -18,6 +18,9 @@ Nota: Las primeras "Alpha" y "Beta" no son publicas.
 
 # Cambios: #
 
+## Version: v0.2.5 [Mini/Pre-Release 2] ##
+- Se agrego textos de carga en el inicio y en el menu principal.
+
 ## Version: v0.2.4 [Pre-Release] ##
 - Se ha reescrito todo el codigo del mod y se eliminaron funciones inservibles.
 - Se ha reparado la incompatibilidad con la libreria de musica.
