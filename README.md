@@ -18,6 +18,11 @@ Nota: Las primeras "Alpha" y "Beta" no son publicas.
 
 # Cambios: #
 
+## Version: v0.3.5 [Pre-Release 3] ##
+- Se agregaron nuevas insignias exclusivas para los perfiles. (Admin, Creador de Contenido, Donador).
+- Se agrego un aviso para cuando salga una nueva version.
+- Se optimizo el codigo.
+
 ## Version: v0.2.5 [Mini/Pre-Release 2] ##
 - Se agrego textos de carga en el inicio y en el menu principal.
 
